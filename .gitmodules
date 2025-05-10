@@ -4,3 +4,9 @@
 [submodule "scbatch4_week2_day1/lib/openzeppelin-contracts"]
 	path = scbatch4_week2_day1/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "scbatch4_week2_day1/lib/v3-periphery"]
+	path = scbatch4_week2_day1/lib/v3-periphery
+	url = https://github.com/Uniswap/v3-periphery
+[submodule "scbatch4_week2_day1/lib/v3-core"]
+	path = scbatch4_week2_day1/lib/v3-core
+	url = https://github.com/Uniswap/v3-core
